@@ -40,6 +40,6 @@ Natural companion artifacts in this lane include:
 - later entries in *Dispatches from the Record*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: 10.5281/zenodo.19702141 
 
 Full printable PDF available via DOI link after publication.
